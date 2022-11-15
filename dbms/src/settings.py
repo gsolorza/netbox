@@ -1,0 +1,2 @@
+DEFAULTUSER = "admin"
+DEFAULTPASSWORD = "admin"
